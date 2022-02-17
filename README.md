@@ -1,2 +1,2 @@
 # odin-recipes
-Aplication of the knowledge learn in The Odin Project
+Aplication of the knowledge learnt in The Odin Project
